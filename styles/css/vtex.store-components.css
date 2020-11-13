@@ -18,6 +18,19 @@
     background-color: blue;
     border: transparent;
 }
+
 .infoCardContainer--vintage {
     background-color: #edcfd1;
-  }
+}
+
+.infoCardHeadline {
+    font-weight: bold;
+}
+
+.infoCardCallActionContainer--vintage:hover {
+    background-color: white;
+}
+
+.infoCardContainer {
+    background-color: #e1e1e1;
+}
