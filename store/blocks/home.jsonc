@@ -1,15 +1,16 @@
 {
   "store.home": {
-    "flex-layout.row":{
-      "children": [
-        "info-card#rethink",
-        "rich-text#deletar"
-      ]
-    },
     "blocks": [
       "rich-text",
       "info-card#button-right",
-      "info-card#button-left"
+      "info-card#button-left",
+      "flex-layout.row"
+    ]
+  },
+  "flex-layout.row":{
+    "children": [
+      "info-card#rethink",
+      "rich-text#deletar"
     ]
   },
   "info-card#rethink": {
