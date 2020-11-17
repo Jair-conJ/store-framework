@@ -2,7 +2,7 @@
   "shelf": {
     "blocks": ["product-summary.shelf"],
     "props": {
-      "category": 3,
+      "category": 1,
       "orderBy": "OrderByTopSaleDESC",
       "paginationDotsVisibility": "desktopOnly",
       "productList": {
@@ -17,6 +17,7 @@
   },
   "product-summary.shelf": {
     "children": [
+      "product-summary-image",
       "product-summary-add-to-list-button",
       "product-summary-name",
       "product-rating-inline",
