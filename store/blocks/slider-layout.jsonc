@@ -4,7 +4,8 @@
     "props": {
         "autoplay": {
           "timeout": 7000,
-          "stopOnHover": true
+          "stopOnHover": true,
+          "infinite": true
         }
       }
     },
