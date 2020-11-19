@@ -1,5 +1,28 @@
 {
   "store.search": {
-    "blocks": []
+    "blocks": ["search-result-layout"],
+    "props": {
+      "context": {
+        "skuFilter": "FIRST_AVAILABLE",
+        "simulationBehavior": "skip"
+      }
+    }
+  },
+  "search-result-layout": {
+    "blocks": [
+      "search-result-layout.desktop"
+    ]
+  },
+  "search-result-layout.desktop": {
+    "children": [
+      "breadcrumb",
+      "search-title.v2",
+      "total-products.v2",
+      "order-by.v2",
+      "search-fetch-previous",
+      "search-content",
+      "filter-navigator.v3",
+      "search-fetch-more"
+    ]
   }
 }
