@@ -28,7 +28,7 @@
     "rich-text#about-content": {
       "props": {
         "text":
-        " FlatFlat es una tienda de electrónica con una larga tradición en la fabricación de artículos modernos y vintage. Nuestro objetivo es crear electrodomésticos que hagan que los hogares de nuestros clientes sean interesantes, independientemente del estilo. Con solo 2 meses de historia, ya somos la tienda con los productos más bellos de todo VTEX. ¡Estamos construyendo nuestro sitio web en este momento para brindar a nuestros clientes una experiencia memorable con nuestra marca!"
+        " FlatFlat é uma loja de eletro eletrônicos com muita tradição na fabricação de itens modernos e vintage. Nosso objetivo é criar eletrodomésticos que tornem as casas dos nossos clientes interessantes, independente do estilo. Com apenas 2 meses de história, já somos a loja com os produtos mais bonitos de toda a VTEX. Estamos construindo o nosso site nesse momento com o intuito de dar ao nosso cliente uma experiência memorável com a nossa marca!"
       }
     },
     "image#about-us": {
