@@ -23,8 +23,6 @@
             "skusFilter": "ALL_AVAILABLE"
         }
       },
-      "blocks": [
-        "search-result-layout.desktop"
-      ]
+      "blocks": ["search-result-layout.desktop"]
     }
 }
