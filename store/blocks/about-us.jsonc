@@ -26,9 +26,9 @@
     },
     "tab-list.item#home2": {
       "props": {
-        "tabId": "electronics",
+        "tabId": "instagram",
         "label": "Instagram",
-        "defaultActiveTab": true
+        "defaultActiveTab": false
       }
     },
     "tab-content#home": {
@@ -57,7 +57,7 @@
         "iframe"
       ],
       "props": {
-        "tabId": "electronics"
+        "tabId": "instagram"
       }    
     },
     "iframe": {
