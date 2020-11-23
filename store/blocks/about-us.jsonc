@@ -13,18 +13,18 @@
     },
     "tab-list#home": {
       "children": [
-        "tab-list.home#1",
-        "tab-list.home#2"
+        "tab-list.item#home1",
+        "tab-list.item#home2"
       ]
     },
-    "tab-list.home#1": {
+    "tab-list.item#home1": {
       "props": {
         "tabId": "majorAppliances",
         "label": "Major Appliances",
         "defaultActiveTab": true
       }
     },
-    "tab-list.home#2": {
+    "tab-list.item#home2": {
       "props": {
         "tabId": "electronis",
         "label": "Electronics",
