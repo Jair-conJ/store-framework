@@ -26,7 +26,7 @@
     },
     "tab-list.item#home2": {
       "props": {
-        "tabId": "electronis",
+        "tabId": "electronics",
         "label": "Electronics",
         "defaultActiveTab": true
       }
@@ -57,7 +57,7 @@
         "rich-text#home2"
       ],
       "props": {
-        "tabId": "electronis"
+        "tabId": "electronics"
       }    
     },
     "rich-text#home2": {
@@ -78,7 +78,7 @@
         "rich-text#about-title",
         "rich-text#about-content"
       ],
-          "props": {
+        "props": {
         "preventVerticalStretch": true
       }
     },
